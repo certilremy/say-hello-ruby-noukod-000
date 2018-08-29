@@ -1,4 +1,4 @@
-def say_hello(name = "Ruby Programmer")
+def say_hello("certil")
 
-puts ("Hello #{name}!")
+puts ("Hello #{certil}")
 end
